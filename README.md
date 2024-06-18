@@ -14,3 +14,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+1. Navigate to different widgets
+2. Mobile responsive
+
+## Packages used in this project
+1. react-router-dom
+2. react-loader-spinner
