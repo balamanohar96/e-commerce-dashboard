@@ -12,7 +12,10 @@ const Body = () => {
     }
   } else {
     return (
-      <h2 className="error-msg">Failed to fetch the data, reload the page.</h2>
+      <h2 className="error-msg">
+        Failed to fetch the data due to too many requests, please wait for few
+        seconds and reload the page.
+      </h2>
     );
   }
   return (
