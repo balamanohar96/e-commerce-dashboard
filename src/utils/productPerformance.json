@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "product_id": 1,
+      "name": "Product A",
+      "category": "Electronics",
+      "total_sales": 5000,
+      "total_orders": 100,
+      "revenue": 25000,
+      "rating": 4.5,
+      "reviews_count": 50,
+      "last_order_date": "2024-06-15"
+    },
+    {
+      "product_id": 2,
+      "name": "Product B",
+      "category": "Clothing",
+      "total_sales": 3000,
+      "total_orders": 80,
+      "revenue": 18000,
+      "rating": 4.2,
+      "reviews_count": 40,
+      "last_order_date": "2024-06-14"
+    },
+    {
+      "product_id": 3,
+      "name": "Product C",
+      "category": "Books",
+      "total_sales": 2000,
+      "total_orders": 50,
+      "revenue": 10000,
+      "rating": 4.0,
+      "reviews_count": 30,
+      "last_order_date": "2024-06-13"
+    },
+    {
+      "product_id": 4,
+      "name": "Product D",
+      "category": "Electronics",
+      "total_sales": 10000,
+      "total_orders": 30,
+      "revenue": 14000,
+      "rating": 4.2,
+      "reviews_count": 25,
+      "last_order_date": "2024-06-12"
+    }
+  ]
+}

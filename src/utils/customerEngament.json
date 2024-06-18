@@ -1,0 +1,16 @@
+{
+  "new_customers": 150,
+  "returning_customers": 300,
+  "customer_satisfaction": {
+    "average_rating": 4.2,
+    "total_reviews": 500
+  },
+  "order_frequency": {
+    "average_orders_per_customer": 2.5,
+    "repeat_purchase_rate": 0.6
+  },
+  "revenue_metrics": {
+    "total_revenue": 100000,
+    "average_order_value": 100
+  }
+}
